@@ -5,6 +5,7 @@ public class RandIntBrojIspisNaopako {
 				int brojint = (int) broj;
 				System.out.println(brojint);
 				
+				//poravnaj kod, ima li potrebe za 5 razlicitih varijabli za ispis?
 				int ispis1 = brojint % 10;
 				System.out.println(ispis1);
 				int ispis2 = brojint % 100 / 10;
